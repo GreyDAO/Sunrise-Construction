@@ -1,21 +1,19 @@
 {
   "Header": {
-    "title": "We are Sunrise Construction",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
-  },
+    "title": "We are Sunrise Construction"},
   "About": {
     "paragraph": "At Sunrise Construction, our mission is to redefine excellence in construction on the Outer Banks of North Carolina. Founded in 2023, we stand as a beacon of innovation and commitment, bridging the gap in the market for a medium-sized construction company that prioritizes exceptional craftsmanship, superior customer service, and transparent communication. Our dedicated team, at Sunrise Construction, is driven by a passion for delivering projects that not only meet but exceed our clients' expectations. With a focus on quality, integrity, and collaboration, we embark on every construction endeavor, ensuring that the structures we build not only withstand the test of time but become integral parts of the vibrant Outer Banks community. At Sunrise Construction, we don't just construct buildings; we create enduring partnerships and contribute to the lasting beauty of the coastal landscape.",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "Protect yourself from material liens with no revolving credit accounts.",
+      "Enjoy a seamless experience with a dedicated on-site project manager",
+      "Benefit from our owner-managed approach, delivering exceptional results.",
+      "Prioritize craftsmanship with our team of contractors, not salesmen."
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "Make informed decisions without high-pressure sales tactics.",
+      "Expect no compromise on quality with our meticulously selected projects",
+      "Receive unmatched service and craftsmanship",
+      "We will respect your time and privacy"
     ]
   },
   "Gallery": [
@@ -99,86 +97,49 @@
   ],
   "Testimonials": [
     {
-      "img": "img/testimonials/01.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
-    },
-    {
-      "img": "img/testimonials/02.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
-    },
-    {
-      "img": "img/testimonials/03.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
-    },
-    {
-      "img": "img/testimonials/04.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
-    },
-    {
-      "img": "img/testimonials/05.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
-    },
-    {
-      "img": "img/testimonials/06.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "Extremely professional, priced the job very competetively, and kept in constant contact through the entire process. He was also very helpful providing me with needed information when I had to get the job approved by the Kill Devil Hills historical society, as our home is a local historical landmark. Highly, highly recommend.",
+      "name": "Paul Bodet"
     }
   ],
-  "Team": [
+  "Certifications": [
     {
-      "img": "img/team/01.jpg",
-      "name": "John Doe",
-      "job": "Director"
+      "img": "img/certifications/01.jpg",
+      "name": "Better Business Bureau Associated"
     },
     {
-      "img": "img/team/02.jpg",
-      "name": "Mike Doe",
-      "job": "Senior Designer"
+      "img": "img/certifications/02.jpg",
+      "name": "Fortified Roof Certified"
     },
     {
-      "img": "img/team/03.jpg",
-      "name": "Jane Doe",
-      "job": "Senior Designer"
-    },
-    {
-      "img": "img/team/04.jpg",
-      "name": "Karen Doe",
-      "job": "Project Manager"
+      "img": "img/certifications/03.jpg",
+      "name": "Shingle Master Certified"
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
     "phone": "+1 252 619 7966",
-    "email": "info@company.com",
-    "facebook": "fb.com",
-    "twitter": "twitter.com",
-    "youtube": "youtube.com"
+    "email": "zacharywayland@sunriseobx.co",
+    "facebook": "Facebook.com/sunriseobx"
   },
   "Features": [
     {
-      "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-comments",
+      "title": "Free Consultation",
+      "text": "We believe that an informed decision is the only decision you should make."
     },
     {
       "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Frequent Progress Reports",
+      "text": "Communication is the key to avoid mistakes, we will actively update you about your project."
     },
     {
-      "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-check",
+      "title": "Certified and Insured",
+      "text": "Experiance peace of mind with qualified and certified professionals."
     },
     {
-      "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-money",
+      "title": "Competitive Pricing",
+      "text": "We are professionals, not salesmen, you will always recieve a fair quote for your projects."
     }
   ]
 }
